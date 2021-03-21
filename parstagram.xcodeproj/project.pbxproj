@@ -18,6 +18,7 @@
 		8EC3E5DE25FADB6700565CB9 /* parstagramUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EC3E5DD25FADB6700565CB9 /* parstagramUITests.swift */; };
 		8EC3E5FC25FADEA300565CB9 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EC3E5FB25FADEA300565CB9 /* LoginViewController.swift */; };
 		8EC3E60125FADEB200565CB9 /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EC3E60025FADEB200565CB9 /* FeedViewController.swift */; };
+		8EE5CFB42606C01A00BDD230 /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EE5CFB32606C01A00BDD230 /* CommentCell.swift */; };
 		8EF9E12625FAF6C300705BC5 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EF9E12525FAF6C300705BC5 /* CameraViewController.swift */; };
 /* End PBXBuildFile section */
 
@@ -58,6 +59,7 @@
 		8EC3E5DF25FADB6700565CB9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8EC3E5FB25FADEA300565CB9 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		8EC3E60025FADEB200565CB9 /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
+		8EE5CFB32606C01A00BDD230 /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		8EF9E12525FAF6C300705BC5 /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -132,6 +134,7 @@
 				8EC3E5BB25FADB6600565CB9 /* AppDelegate.swift */,
 				8EC3E5BD25FADB6600565CB9 /* SceneDelegate.swift */,
 				8EC3E5C125FADB6600565CB9 /* Main.storyboard */,
+				8EE5CFB32606C01A00BDD230 /* CommentCell.swift */,
 				8EF9E12525FAF6C300705BC5 /* CameraViewController.swift */,
 				8E578A4B25FC2C2F00BE00CA /* PostCell.swift */,
 				8EC3E5FB25FADEA300565CB9 /* LoginViewController.swift */,
@@ -341,6 +344,7 @@
 				8EC3E60125FADEB200565CB9 /* FeedViewController.swift in Sources */,
 				8EC3E5BE25FADB6600565CB9 /* SceneDelegate.swift in Sources */,
 				8E578A4C25FC2C2F00BE00CA /* PostCell.swift in Sources */,
+				8EE5CFB42606C01A00BDD230 /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
